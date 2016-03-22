@@ -1,0 +1,12 @@
+{
+  "name": "edge",
+  "version": "3.0.0",
+  "description": "javascript, css, compress, yuicompress-2.4.6,gzip, merge file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "AnderPang <anderpang@qq.com>",
+  "license": "ISC"
+}
